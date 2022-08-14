@@ -1,7 +1,7 @@
 
 # Magic 8 Ball 🎱
 
-My the first chaleng in the flutter bootcamp with dart. You can see my result here in GitHub :)
+My first chaleng in the flutter bootcamp with dart. You can see my result here in GitHub :)
 
 ## My Goal
 
